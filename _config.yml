@@ -4,7 +4,7 @@ email: mrcbickel@gmail.com
 url: https://MarcBickel.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Computer Vision - Computer Graphics - User Experience - Machine & Deep Learning"
+skills: "Computer Vision - Computer Graphics - Computational Photography - User Experience - Deep Learning"
 meta_author: Bickel Marc
 
 # Google webmaster tools
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/ohmymarc
+    url: https://twitter.com/mrcbckl
   - title: linkedin
     url: https://www.linkedin.com/in/marc-bickel/
   - title: instagram
@@ -50,7 +50,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 1024 Ecublens, Switzerland
+  - line: 1751 Villars-sur-Glâne, Switzerland
 
 # Credits content
 credits: 'This website is based on Freelancer, a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
